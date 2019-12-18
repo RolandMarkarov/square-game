@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/square-game/static/css/main.170f8677.chunk.css",
+    "main.js": "/square-game/static/js/main.63be8072.chunk.js",
+    "main.js.map": "/square-game/static/js/main.63be8072.chunk.js.map",
+    "runtime-main.js": "/square-game/static/js/runtime-main.ecad3d3c.js",
+    "runtime-main.js.map": "/square-game/static/js/runtime-main.ecad3d3c.js.map",
+    "static/js/2.3b45e196.chunk.js": "/square-game/static/js/2.3b45e196.chunk.js",
+    "static/js/2.3b45e196.chunk.js.map": "/square-game/static/js/2.3b45e196.chunk.js.map",
+    "index.html": "/square-game/index.html",
+    "precache-manifest.76ec8293f5f3de3da278032accba78ca.js": "/square-game/precache-manifest.76ec8293f5f3de3da278032accba78ca.js",
+    "service-worker.js": "/square-game/service-worker.js",
+    "static/css/main.170f8677.chunk.css.map": "/square-game/static/css/main.170f8677.chunk.css.map",
+    "static/js/2.3b45e196.chunk.js.LICENSE": "/square-game/static/js/2.3b45e196.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecad3d3c.js",
+    "static/js/2.3b45e196.chunk.js",
+    "static/css/main.170f8677.chunk.css",
+    "static/js/main.63be8072.chunk.js"
+  ]
+}
