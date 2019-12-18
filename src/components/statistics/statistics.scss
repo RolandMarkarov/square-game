@@ -1,0 +1,25 @@
+.list {
+    list-style: none;
+    margin-top: 30px;
+    font-size: 20px;
+    height: 60vh;
+    width: 550px;
+    overflow-y: scroll;
+
+
+    &-item {
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(223, 221, 221);
+        width: 90%;
+        margin: 20px auto;
+        border-radius: 5px;
+
+        span {
+            // width: 50%;
+            text-align: start;
+            padding: 10px 30px;
+
+        }
+    }
+}
